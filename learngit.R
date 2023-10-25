@@ -4,3 +4,9 @@ summary(mtcars)
 
 
 install.packages("usethis")
+
+hist(mtcars$hp)
+
+
+mean(mtcars$hp)
+median(mtcars$hp)
